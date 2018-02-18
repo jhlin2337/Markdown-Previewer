@@ -1,0 +1,22 @@
+.editor {
+	border: 1px black solid;
+	margin: 20px;
+	box-shadow: 2px 2px 20px black;
+}
+
+.text-editor {
+	width: 600px;
+	margin: 0;
+	padding: 0;
+}
+
+.text-editor textarea {
+	float: left;
+	width: 98.4%;
+	margin: 0;
+	padding: 4px;
+	background-color: #c0d8d8;
+	resize: vertical;
+	min-height: 200px;
+	font-size: 12px;
+}

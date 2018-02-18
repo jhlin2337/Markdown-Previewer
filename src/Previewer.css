@@ -1,0 +1,13 @@
+.previewer {
+	border: 1px black solid;
+	box-shadow: 2px 2px 20px black;
+	margin-bottom: 20px;
+}
+
+.preview {
+	width: 99%;
+	background-color: #c0d8d8;
+	padding: 4px;
+	font-size: 12px;
+	white-space: pre;
+}
